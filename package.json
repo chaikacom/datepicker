@@ -19,7 +19,7 @@
   "author": "Fangdun Cai <cfddream@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "flatpickr": "2.6.3",
+    "flatpickr": "^4.6.1",
     "vue-click-outside": "1.0.6"
   }
 }
